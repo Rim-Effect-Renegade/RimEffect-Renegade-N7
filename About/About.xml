@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Rim-Effect Reborn: N7</name>
+	<name>Rim-Effect Renegade: N7</name>
 	<author>Vanilla Expanded Team and Co.</author>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
-	<packageId>RimEffectReborn.N7</packageId>
+	<packageId>RimEffectRenegade.N7</packageId>
 	<modIconPath IgnoreIfNoMatchingField="True">RimEffect/ModIcon</modIconPath>
 	<modDependencies>
         <li>
-			<packageId>RimEffectReborn.Core</packageId>
-			<displayName>Rim-Effect Reborn: Core</displayName>
+			<packageId>RimEffectRenegade.Core</packageId>
+			<displayName>Rim-Effect Renegade: Core</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2479560240</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>RimEffectReborn.Core</li>
+		<li>RimEffectRenegade.Core</li>
 	</loadAfter>
 	<description>Rim Effect is a large overhaul mod series, adding the story, races, objects, and conflicts of Mass Effect universe into RimWorld. The Mass Effect elements are not meant to stand out, and as such are blended into the RimWorld style by utilising the same naming conventions and writing styles.
 
