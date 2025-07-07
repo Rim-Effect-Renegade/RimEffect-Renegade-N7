@@ -11,7 +11,7 @@
             <MeleeHitChance>-1</MeleeHitChance>
             <MeleeDodgeChance>-2</MeleeDodgeChance>
         </equippedStatOffsets>
-		<thingClass>VFECore.Apparel_Shield</thingClass>
+		<thingClass>VEF.Apparels.Apparel_Shield</thingClass>
 		<apparel>
 			<careIfWornByCorpse>false</careIfWornByCorpse>
 			<careIfDamaged>false</careIfDamaged>
@@ -85,7 +85,7 @@
            <li>RE_OmniShield</li>
         </tradeTags>
         <comps>
-            <li Class="VFECore.CompProperties_Shield">
+            <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
                     <li>UltratechN7</li>
                 </shieldTags>

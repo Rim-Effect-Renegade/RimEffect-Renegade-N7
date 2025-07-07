@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\rimeffectn7defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:rimeffectn7defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\rimeffectn7mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:rimeffectn7mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|f:\\rwmodcategories\\neronix17\\rimeffectbiotech\\rimeffect-n7-biotech\\1.6\\source\\rimeffectn7\\patch_pawn_healthtracker_preapplydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:patch_pawn_healthtracker_preapplydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\hediffcomp_darkchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:hediffcomp_darkchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\deflectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:deflectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\blackholeprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:blackholeprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\rimeffectn7settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:rimeffectn7settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RimEffectN7DefOf.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7DefOf.cs",
+              "RelativeDocumentMoniker": "RimEffectN7DefOf.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7DefOf.cs",
+              "RelativeToolTip": "RimEffectN7DefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:50:33.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HediffComp_DarkChannel.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\HediffComp_DarkChannel.cs",
+              "RelativeDocumentMoniker": "HediffComp_DarkChannel.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\HediffComp_DarkChannel.cs",
+              "RelativeToolTip": "HediffComp_DarkChannel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAlwDEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:50:18.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeflectExtension.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\DeflectExtension.cs",
+              "RelativeDocumentMoniker": "DeflectExtension.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\DeflectExtension.cs",
+              "RelativeToolTip": "DeflectExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:49:59.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlackHoleProjectile.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\BlackHoleProjectile.cs",
+              "RelativeDocumentMoniker": "BlackHoleProjectile.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\BlackHoleProjectile.cs",
+              "RelativeToolTip": "BlackHoleProjectile.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwFQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:49:47.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patch_Pawn_HealthTracker_PreApplyDamage.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\Patch_Pawn_HealthTracker_PreApplyDamage.cs",
+              "RelativeDocumentMoniker": "Patch_Pawn_HealthTracker_PreApplyDamage.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\Patch_Pawn_HealthTracker_PreApplyDamage.cs",
+              "RelativeToolTip": "Patch_Pawn_HealthTracker_PreApplyDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:46:40.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RimEffectN7Settings.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7Settings.cs",
+              "RelativeDocumentMoniker": "RimEffectN7Settings.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7Settings.cs",
+              "RelativeToolTip": "RimEffectN7Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:46:11.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RimEffectN7Mod.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7Mod.cs",
+              "RelativeDocumentMoniker": "RimEffectN7Mod.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7Mod.cs",
+              "RelativeToolTip": "RimEffectN7Mod.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvycAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:44:25.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

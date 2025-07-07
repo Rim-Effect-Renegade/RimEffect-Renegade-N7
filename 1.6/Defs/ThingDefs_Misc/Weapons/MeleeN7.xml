@@ -91,7 +91,7 @@
       </li>
     </tools>
         <modExtensions>
-	            <li Class="VFECore.ThingDefExtension">
+	            <li Class="VEF.Things.ThingDefExtension">
                 <usableWithShields>true</usableWithShields>
             </li>
         </modExtensions>
