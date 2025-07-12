@@ -31,7 +31,7 @@ namespace RimEffectN7
             Version version = Assembly.GetExecutingAssembly().GetName().Version;
             CurrentVersion = $"{version.Major}.{version.Minor}.{version.Build}";
 
-            Log.Message($"".Colorize(Color.cyan) + $"{CurrentVersion} ::");
+            Log.Message($":: Rim-Effect Renegade: N7 :: ".Colorize(Color.cyan) + $"{CurrentVersion} ::");
 
             File.WriteAllText(VersionDir, CurrentVersion);
 

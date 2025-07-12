@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\rimeffectn7defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:rimeffectn7defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\rimeffectn7mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:rimeffectn7mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|f:\\rwmodcategories\\neronix17\\rimeffectbiotech\\rimeffect-n7-biotech\\1.6\\source\\rimeffectn7\\patch_pawn_healthtracker_preapplydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|f:\\rwmodcategories\\neronix17\\rimeffectbiotech\\rimeffect-n7-biotech\\1.6\\source\\rimeffectn7\\rimeffectn7defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:rimeffectn7defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\patch_pawn_healthtracker_preapplydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A399F795-3693-447E-80C9-FB40079DD21A}|RimEffectN7.csproj|solutionrelative:patch_pawn_healthtracker_preapplydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RimEffectN7DefOf.cs",
               "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7DefOf.cs",
               "RelativeDocumentMoniker": "RimEffectN7DefOf.cs",
@@ -99,8 +99,7 @@
               "RelativeToolTip": "Patch_Pawn_HealthTracker_PreApplyDamage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T17:46:40.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T17:46:40.578Z"
             },
             {
               "$type": "Document",
@@ -116,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RimEffectN7Mod.cs",
               "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7Mod.cs",
               "RelativeDocumentMoniker": "RimEffectN7Mod.cs",
               "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-N7-Biotech\\1.6\\Source\\RimEffectN7\\RimEffectN7Mod.cs",
               "RelativeToolTip": "RimEffectN7Mod.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvycAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T17:44:25.788Z",
               "EditorCaption": ""
