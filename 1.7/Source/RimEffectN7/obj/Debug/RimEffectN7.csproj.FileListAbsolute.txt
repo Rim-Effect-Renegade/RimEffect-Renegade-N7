@@ -1,0 +1,15 @@
+F:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.6\Assemblies\RimEffectN7.dll
+F:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.6\Source\RimEffectN7\obj\Debug\RimEffectN7.csproj.AssemblyReference.cache
+F:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.6\Source\RimEffectN7\obj\Debug\RimEffectN7.csproj.CoreCompileInputs.cache
+F:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.6\Source\RimEffectN7\obj\Debug\RimEffectN7.dll
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\RimEffectN7.csproj.AssemblyReference.cache
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\RimEffectN7.GeneratedMSBuildEditorConfig.editorconfig
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\RimEffectN7.AssemblyInfoInputs.cache
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\RimEffectN7.AssemblyInfo.cs
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\RimEffectN7.csproj.CoreCompileInputs.cache
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\RimEffectN7.sourcelink.json
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\RimEffectN7.dll
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Assemblies\RimEffectN7.dll
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\refint\RimEffectN7.dll
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\ref\RimEffectN7.dll
+G:\RWModCategories\Neronix17\RimEffectBiotech\RimEffect-N7-Biotech\1.7\Source\RimEffectN7\obj\Debug\RimEffec.0860E140.Up2Date
